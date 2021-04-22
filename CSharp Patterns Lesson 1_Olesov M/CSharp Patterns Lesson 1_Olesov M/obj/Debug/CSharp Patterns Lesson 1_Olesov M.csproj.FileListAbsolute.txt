@@ -1,0 +1,7 @@
+J:\GeekBrains\CSharp patterns\CSharp Patterns Lesson 1_Olesov M\CSharp Patterns Lesson 1_Olesov M\bin\Debug\CSharp Patterns Lesson 1_Olesov M.exe.config
+J:\GeekBrains\CSharp patterns\CSharp Patterns Lesson 1_Olesov M\CSharp Patterns Lesson 1_Olesov M\bin\Debug\CSharp Patterns Lesson 1_Olesov M.exe
+J:\GeekBrains\CSharp patterns\CSharp Patterns Lesson 1_Olesov M\CSharp Patterns Lesson 1_Olesov M\bin\Debug\CSharp Patterns Lesson 1_Olesov M.pdb
+J:\GeekBrains\CSharp patterns\CSharp Patterns Lesson 1_Olesov M\CSharp Patterns Lesson 1_Olesov M\obj\Debug\CSharp Patterns Lesson 1_Olesov M.csprojAssemblyReference.cache
+J:\GeekBrains\CSharp patterns\CSharp Patterns Lesson 1_Olesov M\CSharp Patterns Lesson 1_Olesov M\obj\Debug\CSharp Patterns Lesson 1_Olesov M.csproj.CoreCompileInputs.cache
+J:\GeekBrains\CSharp patterns\CSharp Patterns Lesson 1_Olesov M\CSharp Patterns Lesson 1_Olesov M\obj\Debug\CSharp Patterns Lesson 1_Olesov M.exe
+J:\GeekBrains\CSharp patterns\CSharp Patterns Lesson 1_Olesov M\CSharp Patterns Lesson 1_Olesov M\obj\Debug\CSharp Patterns Lesson 1_Olesov M.pdb
